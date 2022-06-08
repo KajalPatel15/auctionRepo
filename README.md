@@ -7,6 +7,8 @@ Swagger UI:
 
 http://localhost:8080/swagger-ui.html
 
+While creating auction request please use Id's from below table. Else you will be thrown Data integrity Error.
+
 Insert Auction Items as Prerequisite:
 
 INSERT INTO ITEM VALUES(1, 'Mobile');
