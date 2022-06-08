@@ -7,7 +7,9 @@ Swagger UI:
 
 http://localhost:8080/swagger-ui.html
 
-While creating auction request please use Id's from below table. Else you will be thrown Data integrity Error.
+While creating auction request please use Id's from below table. Else you will be thrown Data integrity Error. 
+
+For convience below entries are loaded on application bootstrap using DataLoader component.
 
 Insert Auction Items as Prerequisite:
 
